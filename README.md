@@ -9,4 +9,3 @@ This is my journey of web-developer ,I started from scratch (html,css,js)...
 ## 📚 Resources I'm Using
 - [Luv Babbar’s MERN Stack Course](https://example.com)
 - [MDN Web Docs](https://developer.mozilla.org/)
--
