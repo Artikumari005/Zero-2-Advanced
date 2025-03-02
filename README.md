@@ -1,6 +1,6 @@
 # ZERO-2-ADVANCED 🚀
 
-This is my journey of web-developer ,I started from scratch (html,css,js)...
+This is my journey of learning  web-development ,I started from scratch with HTML,CSS, JAVASCRIPT
 
 ## 📅 Progress Tracker
 - *Day 1*: Learned about HTML structure, tags, elements, attributes, div, id, class, tables,and basic navigation bars.
