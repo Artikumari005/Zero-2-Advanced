@@ -4,7 +4,8 @@ This is my journey of learning  web-development ,I started from scratch with HTM
 
 ## 📅 Progress Tracker
 - *Day 1*: Learned about HTML structure, tags, elements, attributes, div, id, class, tables,and basic navigation bars.
-- *Day 2*: Learned about HTML forms and build a project1 in this this project I  make a dummy cv 
+- *Day 2*: Learned about HTML forms and build a project1 in this this project I  make a dummy cv, decription tag
+- *Day 3*: Learned about Html media , some attributes like  lazy,iframe,contols etc , build a project2,project3 and meta tag, fevicons
 
 ## 📚 Resources I'm Using
 - [Luv Babbar’s MERN Stack Course](https://example.com)
