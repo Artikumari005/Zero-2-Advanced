@@ -10,6 +10,8 @@ This is my journey of learning  web-development ,I started from scratch with HTM
 - *Day 5* : Learned about display properties (block, inline, inline-block), box sizing (content-box, border-box), and positioning (static, relative, absolute, fixed, sticky).
 - *Day 6* : Create a project 1 in css , in which I create a single webpage of recipes including navbar, hero section, body , footer section etc.
 - *Day 7*: Create another project in css , in which  I created a simple cards .
+- *Day 8*: Learned about the css grid property like grid-template-column,grid-template-row and some other properties explore through mdn. Start creading a project using grid property , today the html part  is finish and the next day I               start styling the website.
+- *Day 9*: Add css to the yesterday project.
 
 ## 📚 Resources I'm Using
 - [Luv Babbar’s MERN Stack Course](https://example.com)
