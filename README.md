@@ -12,6 +12,8 @@ This is my journey of learning  web-development ,I started from scratch with HTM
 - *Day 7*: Create another project in css , in which  I created a simple cards .
 - *Day 8*: Learned about the css grid property like grid-template-column,grid-template-row and some other properties explore through mdn. Start creading a project using grid property , today the html part  is finish and the next day I               start styling the website.
 - *Day 9*: Add css to the yesterday project.
+- *Day 10*:/* 🎉 CSS Styling complete! Website fully developed using HTML and CSS 🚀 */
+
 
 ## 📚 Resources I'm Using
 - [Luv Babbar’s MERN Stack Course](https://example.com)
