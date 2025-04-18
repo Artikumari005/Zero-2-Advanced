@@ -13,6 +13,8 @@ This is my journey of learning  web-development ,I started from scratch with HTM
 - *Day 8*: Learned about the css grid property like grid-template-column,grid-template-row and some other properties explore through mdn. Start creading a project using grid property , today the html part  is finish and the next day I               start styling the website.
 - *Day 9*: Add css to the yesterday project.
 - *Day 10*:/* 🎉 CSS Styling complete! Website fully developed using HTML and CSS 🚀 */
+- *Day 11*: Start with basic introduction of javascript.
+- *Day 12*: Learn about avriables(var , let , const) and datatypes in js .
 
 
 ## 📚 Resources I'm Using
