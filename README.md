@@ -15,6 +15,8 @@ This is my journey of learning  web-development ,I started from scratch with HTM
 - *Day 10*:/* 🎉 CSS Styling complete! Website fully developed using HTML and CSS 🚀 */
 - *Day 11*: Start with basic introduction of javascript.
 - *Day 12*: Learn about avriables(var , let , const) and datatypes in js .
+- *Day 13*: Learn about operators and conditionals statements in js.
+- *Day 14*: Learn about loops and string in js. Then i mooved to the function (plain and arrow function) in js.
 
 
 ## 📚 Resources I'm Using
